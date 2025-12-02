@@ -1,3 +1,4 @@
+```sql
 # Calculation of the Percentage of Emails Sent to Each Account within Each Month
 # Determination of the First and Last Email Sending Dates for Each Account per Month
 SELECT
