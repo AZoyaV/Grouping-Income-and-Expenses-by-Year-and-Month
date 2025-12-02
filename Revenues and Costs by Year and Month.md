@@ -1,4 +1,4 @@
-Grouping Income and Expenses by Year and Month
+# Grouping Income and Expenses by Year and Month
 
 ```sql
 SELECT
