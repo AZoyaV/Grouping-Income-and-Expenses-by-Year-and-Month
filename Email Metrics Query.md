@@ -1,4 +1,5 @@
 # Calculation of Email Metrics by Operating System
+```sql
 SELECT
   sp.operating_system,
   COUNT(DISTINCT es.id_message) AS sent_msg,
