@@ -1,5 +1,6 @@
 Grouping Income and Expenses by Year and Month
 
+```sql
 SELECT
   year,
   month,
